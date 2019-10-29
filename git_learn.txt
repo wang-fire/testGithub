@@ -1,0 +1,10 @@
+git init    		initialize Local Git Repository
+git status		check status of Working Tree
+git add			add files to index
+git commit		commit changes in Index
+git push		push to remote repository
+git pull		pull latest from remote repository
+git clone		clone repository into a new directory
+git config --global user.name 'wang'
+git config --global user.emal 'wdf1992100$@gamil.com'
+git rm --cached filename
