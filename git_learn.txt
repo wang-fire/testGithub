@@ -8,3 +8,5 @@ git clone		clone repository into a new directory
 git config --global user.name 'wang'
 git config --global user.emal 'wdf1992100$@gamil.com'
 git rm --cached filename
+git branch 'branch name'  //create a brance named branched name
+git checkout 'branch name' //switch to a branch
